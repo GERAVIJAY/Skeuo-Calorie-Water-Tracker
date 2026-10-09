@@ -1,0 +1,6 @@
+{
+  "name": "Calibre — Tactile Calorie & Water Dashboard",
+  "description": "Tactile skeuomorphic combustion chamber, chrono-macro manometers, hydration cylinders, and AI spectral food scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
